@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Sam subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Products" title="Products">
+            <outline type="rss" text="Vercel News" title="Vercel News" xmlUrl="https://zeit.co/atom" htmlUrl="https://vercel.com/" />
+            <outline type="rss" text="Tailwind CSS Blog" title="Tailwind CSS Blog" xmlUrl="https://blog.tailwindcss.com/feed.xml" htmlUrl="https://blog.tailwindcss.com" />
+            <outline type="rss" text="Next.js Blog" title="Next.js Blog" xmlUrl="https://nextjs.org/feed.xml" htmlUrl="https://nextjs.org" />
+        </outline>
+        <outline text="Podcasts" title="Podcasts">
+            <outline type="rss" text="Cortex" title="Cortex" xmlUrl="http://www.relay.fm/cortex/feed" htmlUrl="https://www.relay.fm/cortex" />
+            <outline type="rss" text="Full Stack Radio" title="Full Stack Radio" xmlUrl="http://simplecast.fm/podcasts/279/rss" htmlUrl="http://fullstackradio.com" />
+        </outline>
+        <outline text="Web Development" title="Web Development">
+            <outline type="rss" text="Amelia Wattenberger" title="Amelia Wattenberger" xmlUrl="https://wattenberger.com/feed/" htmlUrl="https://wattenberger.com" />
+            <outline type="rss" text="Josh Comeau's blog" title="Josh Comeau's blog" xmlUrl="https://www.joshwcomeau.com/rss.xml" htmlUrl="https://www.joshwcomeau.com/" />
+            <outline type="rss" text="Piccalilli - All Content" title="Piccalilli - All Content" xmlUrl="https://piccalil.li/feed.xml" htmlUrl="https://piccalil.li/" />
+            <outline type="rss" text="Guillermo Rauch" title="Guillermo Rauch" xmlUrl="https://rauchg.com/atom" htmlUrl="https://rauchg.com/" />
+            <outline type="rss" text="Newsletter feed for rendezvous with cassidoo" title="Newsletter feed for rendezvous with cassidoo" xmlUrl="https://buttondown.email/cassidoo/rss" htmlUrl="https://buttondown.email/cassidoo" />
+            <outline type="rss" text="whatthefuck.is" title="whatthefuck.is" xmlUrl="https://whatthefuck.is/feed.xml" htmlUrl="https://whatthefuck.is" />
+            <outline type="rss" text="PaulStamatiou.com - Technology, Design and Photography" title="PaulStamatiou.com - Technology, Design and Photography" xmlUrl="https://paulstamatiou.com/posts.xml" htmlUrl="https://paulstamatiou.com" />
+            <outline type="rss" text="Dan Abramov's Overreacted Blog RSS Feed" title="Dan Abramov's Overreacted Blog RSS Feed" xmlUrl="https://overreacted.io/rss.xml" htmlUrl="https://overreacted.io" />
+            <outline type="rss" text="🦄 Sindre Sorhus’ blog" title="🦄 Sindre Sorhus’ blog" xmlUrl="https://blog.sindresorhus.com/feed" htmlUrl="https://blog.sindresorhus.com?source=rss----bd01b60f8f44---4" />
+        </outline>
+    </body>
+</opml>
